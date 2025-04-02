@@ -6,7 +6,7 @@ My hobbies are snowboarding, playing video games and coding.
 
 My top 3 programming laungauges are Rust, C/C++, and Python.
 
-I hope to be a software engineering emphazing in low level software integration
+I hope to be a software engineering emphazing integration of low level software in UAV operations
 
 <!--
 **TegranGrigorian/TegranGrigorian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
