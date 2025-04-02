@@ -4,7 +4,7 @@ My name is Tegran, I'm an undergrad at Grand Valley State University, and I'm pu
 
 My hobbies are snowboarding, playing video games and coding.
 
-My top 3 programming laungauges are Rust C/C++ and Python.
+My top 3 programming laungauges are Rust, C/C++, and Python.
 
 I hope to be a software engineering emphazing in low level software integration
 
