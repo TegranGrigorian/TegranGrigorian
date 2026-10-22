@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Tegran, I'm an undergrad at Grand Valley State University, and I'm pursuing my degree in Computer Engineering. I hope to transfer to the University of Michigan College of Engineering.
+My name is Tegran, I'm an undergrad at the University of Michigan pursuing a degree in Computer Engineering.
 
 My hobbies are snowboarding, playing video games and coding.
 
@@ -8,6 +8,7 @@ My top 3 programming laungauges are Rust, C/C++, and Python.
 
 I hope to be a software engineering emphazing integration of low level software in UAV operations
 
+[Portfolio](https://portfolio.tegrangrigorian.work/)
 <!--
 **TegranGrigorian/TegranGrigorian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
