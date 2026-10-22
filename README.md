@@ -8,7 +8,7 @@ My top 3 programming laungauges are Rust, C/C++, and Python.
 
 I hope to be a software engineering emphazing integration of low level software in UAV operations
 
-[Portfolio](https://portfolio.tegrangrigorian.work/)
+[Portfolio](https://portfolio.tegrangrigorian.work/) [Linkedin](https://www.linkedin.com/in/tegran-grigorian/)
 <!--
 **TegranGrigorian/TegranGrigorian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
